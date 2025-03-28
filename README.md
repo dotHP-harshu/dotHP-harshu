@@ -40,11 +40,11 @@
 
 ## 🚀 Featured Projects  
 🔹 **[Personal portfolio](https://dothp-harshu.github.io/portfolio/)** – A personal portfolio website highlighting skills, projects, and achievements, designed with a modern and responsive layout.  
-🔹 **[Dot-quiz](https://dothp-harshu.github.com/dot-quiz/)** – A quiz web app that use **mongodb** to load and store quiz questions, **ejs** for frontend, **express.js** for routing.  
+🔹 **[Dot-quiz](https://github.com/dotHP-harshu/dot-quiz/)** – A quiz web app that use **mongodb** to load and store quiz questions, **ejs** for frontend, **express.js** for routing.  
 🔹 **[Frontend website collection](https://dothp-harshu.github.io/web_projects/docs/)** –  A showcase of multiple frontend websites, built using modern UI/UX principles, optimized for responsiveness and performance.  
 🔹 **[Javascript project collection](https://dothp-harshu.github.io/js_portfolio.github.io/)** –  A collection of various JavaScript-based logic projects, assembled into a single repository and showcased on a webpage.
 
-🔗 Check out my **[GitHub Repositories](https://github.com/your-github-username?tab=repositories)** for more projects.  
+🔗 Check out my **[GitHub Repositories](https://github.com/dothp-harshu?tab=repositories)** for more projects.  
 
 ---
 
